@@ -1,0 +1,13 @@
+{
+    "products" : [
+      {
+        "id" : 1,
+        "name" : "Milk",
+        "price" : 3000,
+        "image": "https://picsum.photos/300/300",
+        "cate_id":3
+      }
+     
+    ]
+  }
+  
